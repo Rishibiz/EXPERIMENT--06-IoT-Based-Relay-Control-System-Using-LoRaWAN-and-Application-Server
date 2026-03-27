@@ -24,15 +24,35 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 ## Output
 ### 1. Serial Port Utility – Network Server Connection
+<img width="1053" height="658" alt="Screenshot 2026-03-25 155310" src="https://github.com/user-attachments/assets/4348e229-0236-4550-a25e-765ace52372e" />
+
+<img width="1050" height="656" alt="Screenshot 2026-03-25 155327" src="https://github.com/user-attachments/assets/302ed144-6b83-481d-bdeb-4b1b6f73a612" />
+
+<img width="1047" height="655" alt="Screenshot 2026-03-25 155343" src="https://github.com/user-attachments/assets/02961eb8-0349-4600-8798-57729c9ac00e" />
+
+<img width="1046" height="660" alt="Screenshot 2026-03-25 155400" src="https://github.com/user-attachments/assets/b545defc-2b36-46a3-b81d-3f111a8bf4ae" />
+
+<img width="1049" height="657" alt="Screenshot 2026-03-25 155416" src="https://github.com/user-attachments/assets/b4f39824-1a3b-402d-bf5d-1fe76242238f" />
+
 
 ### 2. Network Server – Recent Events
+<img width="1919" height="1078" alt="Screenshot 2026-03-19 183645" src="https://github.com/user-attachments/assets/a3994bd1-6346-46bf-9fa4-bd190da8aa6d" />
+
 
 ### 3. Dashboard Command Sending
-
+.
 ### 4. Relay Status Dashboard Output
+### Bulb ON → Relay ON 
+![Screenshot 2026-03-25 155436](https://github.com/user-attachments/assets/86d39974-6581-4092-b4ba-85fac8004d64)
 
-### Bulb ON → Relay ON  
 ### Bulb OFF → Relay OFF
+<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/9f9f2ae1-10fd-4fb8-8c7b-0e824516858b" />
+
+### KIT IMAGE
+
+![IMG_20260224_144045](https://github.com/user-attachments/assets/b46b0869-04e7-4e27-83e6-8b8e304a0856)
+
+
 
 ## Conclusion
 The experiment demonstrates successful relay monitoring and control using LoRaWAN communication with real-time visualization on the dashboard.
